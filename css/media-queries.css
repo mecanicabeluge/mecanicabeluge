@@ -19,10 +19,12 @@
         width: 100%;
     }
     .about-info {
-        padding: 1.2em;
+        padding: .8em;              
     }
     .about-info p {
         text-align: center;
+        line-height: normal;
+        font-size: 1em;
     }
     .services {
         padding-bottom: 15px;
